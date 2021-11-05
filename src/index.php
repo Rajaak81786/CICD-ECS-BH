@@ -16,7 +16,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App</h1>
+                <h1>CICD App</h1>
                 <h2>Congratulations</h2>
                 <p>CICD Deployed on Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
